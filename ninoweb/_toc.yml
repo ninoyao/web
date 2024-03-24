@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Medium
+    chapters:
+      - url: https://medium.com/@ninoyao/from-the-utilitarianism-aspect-is-that-ethical-for-cheating-in-a-conference-3c4e94dc6fab
+        title: From the utilitarianism aspect, Is that ethical for “cheating” in a conference? - 2020  
+      - url: https://medium.com/@ninoyao/daily-data-science-101-central-limit-theorem-23fe452981a7
+        title: Central Limit Theorem - 2019
+      - url: https://medium.com/swlh/daily-data-science-101-bootstrap-c0895dc10535
+        title: Bootstrap - 2019   
+      - url: https://medium.com/@ninoyao/daily-data-science-101-how-rich-you-need-to-be-in-order-to-beat-casino-66e29b22091
+        title: How rich you need to be in order to beat Casino? - 2019   
+  - caption: Wechat
+    chapters:
+      - url: https://mp.weixin.qq.com/s?__biz=MzAxNzg4NTE5OQ==&mid=2651227574&idx=1&sn=664f046b55eaf833055d6880cbe4447e&chksm=802c94d6b75b1dc0e225cd4673c962b596d1ddbe26c765676b4a583549124dc36a9836afae4b
+        title: 梦幻打书，数学期望，遍历性与人生抉择
+      - url: https://mp.weixin.qq.com/s?__biz=MzAxNzg4NTE5OQ==&mid=2651227542&idx=1&sn=6127a2b92c88b94d959ad9cc019562e1&chksm=802c94f6b75b1de036da8296a1c5a0a926cfeacc231992ce84d7de262f10fee625fb13cc3d31
+        title: 给自己打个日志 - 动态血糖记录仪       
+  - caption: Contact
+    chapters:
+      - url: https://www.linkedin.com/in/yuzhiyao
+        title: LinkedIn
