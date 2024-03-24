@@ -1,11 +1,22 @@
-# Welcome to your Jupyter Book
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+  .pixel-font {
+    font-family: 'Press Start 2P', cursive;
+  }
+</style>
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+# Intro
 
-Check out the content pages bundled with this sample book to see more.
+<span class="pixel-font"> Welcoooooooooooome!!</span>
+
+
+You have reached Nino's <span class="pixel-font"> `personal knowledge` </span>hub.
+
+
+You will find `articles` `pitch deck` `videos` `demos` and `all other things` nino created here.
+
 
 ```{tableofcontents}
 ```
